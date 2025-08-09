@@ -10,4 +10,4 @@ This repository fetches all MetaDAO conditional and AMM LP mints, currently supp
     ```bash
     python main.py
     ```
-- Results will be populated in the `results` directory.
+- Results will be populated in the `result` directory.
