@@ -293,7 +293,7 @@
   ],
   "accounts": [
     {
-      "name": "amm",
+      "name": "Amm",
       "type": {
         "kind": "struct",
         "fields": [
